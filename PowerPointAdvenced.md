@@ -2,11 +2,17 @@
 
 ## Mục lục nội dung
 
+- [1. Powerpoint nâng cao](#1-powerpoint-nâng-cao)
+- [2. Trình bày thể hiện sự phát triển qua từng năm](#2-trình-bày-thể-hiện-sự-phát-triển-qua-từng-năm)
+- [3. Thiết kế trang trình bày đơn giản nhất có thể](#3-thiết-kế-trang-trình-bày-đơn-giản-nhất-có-thể)
+- [4. Tạo điểm nhấn](#4-tạo-điểm-nhấn)
+- [5. Thể hiện mục đích](#5-thể-hiện-mục-đích)
+
 ## 1. Powerpoint nâng cao
 
 Tham khảo lý thuyết trình bày [ở đây][ppt]
 
-## 2 Trình bày thể hiện sự phát triển qua từng năm
+## 2. Trình bày thể hiện sự phát triển qua từng năm
 
 Ban đầu khi chưa sử dụng
 
@@ -16,7 +22,9 @@ Thay đổi cho sinh động
 
 ![alt img](/assets/develop2.jpg)
 
-## 3 Thiết kế trang trình bày đơn giản nhất có thể
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+## 3. Thiết kế trang trình bày đơn giản nhất có thể
 
 Ban đầu => mục tiêu là **xóa hình ảnh không cần thiết, xóa những từ không cần thiết**
 
@@ -29,6 +37,8 @@ Sau khi xóa hình ảnh và từ không cần thiết
 Làm cho sinh động
 
 ![alt img](/assets/minimal3.jpg)
+
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
 
 ## 4. Tạo điểm nhấn
 
@@ -78,6 +88,8 @@ Làm cho sinh động
 
 ![alt img](/assets/point10.jpg)
 
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
 ## 5. Thể hiện mục đích
 
 ![alt img](/assets/purpose1.jpg)
@@ -86,4 +98,6 @@ Làm cho sinh động
 
 ![alt img](/assets/purpose2.jpg)
 
-[ppt]:https://www.presentation-process.com/presentation-design.html?fbclid=IwAR2sTQDpuSg7Dl7DkNkQ-Mb8DzT7r_RIIuXpz4zHRrLKPMQ00H1i0lPZ1zs
+**[⬆ Quay trở lại đầu trang](#mục-lục-nội-dung)**
+
+[ppt]: https://www.presentation-process.com/presentation-design.html?fbclid=IwAR2sTQDpuSg7Dl7DkNkQ-Mb8DzT7r_RIIuXpz4zHRrLKPMQ00H1i0lPZ1zs
