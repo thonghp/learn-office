@@ -42,7 +42,7 @@ Làm cho sinh động
 
 ## 4. Tạo điểm nhấn
 
-![alt img](/assets/point1.jpg)
+![alt img](/assets/point01.jpg)
 
 **OR**
 
